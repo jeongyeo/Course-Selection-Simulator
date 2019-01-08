@@ -1,3 +1,3 @@
 # Course-Selection-Simulator
 
-Execute dist/A2.jar
+To run the program, execute dist/CourseSelectionSimulator.jar
